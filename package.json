@@ -1,0 +1,28 @@
+{
+  "name": "marked-ext",
+  "version": "1.0.0",
+  "description": "extend for chjj/marked,support flowchart and sequence chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linecheng/marked-ext.git"
+  },
+  "keywords": [
+    "flowchart",
+    "sequence",
+    "chart",
+    "markdown"
+  ],
+  "author": "linecheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linecheng/marked-ext/issues"
+  },
+  "homepage": "https://github.com/linecheng/marked-ext#readme",
+  "dependencies": {
+    "marked": "^0.3.5"
+  }
+}
